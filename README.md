@@ -1,1 +1,1 @@
-# Tchnology-Fundamentals-SoftUni-PHP
+# Technology-Fundamentals-SoftUni-PHP
